@@ -9,5 +9,6 @@ I am borrowing ideas from the [the official React tutorial](http://facebook.gith
 - First I will create a public/ folder where the static files will live.
 - Then I will start a node setup with ```npm init -y```.
 - Install express ```npm install --save express``` and create a server.js
+- Install ```npm install --save-dev nodemon``` to watch for express changes
 
 - Create a ```views/layouts/main.handlebars``` template folder
