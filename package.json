@@ -1,0 +1,24 @@
+{
+  "name": "react-blog",
+  "version": "1.0.0",
+  "description": "This is a hack day project where I will try to setup a core React/Express/MongoDB blogging application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge-3/react-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorge-3/react-blog/issues"
+  },
+  "homepage": "https://github.com/jorge-3/react-blog#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
