@@ -4,7 +4,7 @@ var app = express()
 app.set('port', (process.env.PORT || 3000))
 
 app.get('/', (req, res) => {
-  var data = {"Hello": "World"}
+  var data = {"Hello": "Loco", "Loco": "Moco"}
   res.json(data);
   // res.send('Hello World!');
 })
